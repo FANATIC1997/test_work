@@ -1,0 +1,129 @@
+.container-md{
+    margin-top: 2%;
+    margin-bottom: 50px;
+}
+
+.content.p-3 {
+    width: 100%;
+}
+
+.col-3{
+
+}
+
+.content{
+    margin-top: 1%;
+}
+
+.index{
+    margin-top: 20%;
+}
+
+.btn-primary{
+    margin-top: 1%;
+    float: right;
+}
+
+.label{
+    font-size: 2em;
+}
+
+.col{
+    text-align: center;
+}
+
+p{
+    font-size: 2em;
+}
+
+.card{
+    margin: 0 auto;
+    width: 17.5rem;
+}
+
+.row{
+    margin-top: 1%;
+}
+
+@media (min-width: 280px) {
+    .col-3 {
+        width: 100%;
+        margin-top: 1%;
+    }
+
+    .card{
+        width: 10rem;
+    }
+
+    .label {
+        font-size: 1.5em;
+    }
+}
+
+@media (min-width: 500px) {
+    .col-3{
+        width: 100%;
+        margin-top: 1%;
+    }
+    .card{
+        width: 17.5rem;
+    }
+    .label{
+        font-size: 1.5em;
+    }
+}
+
+@media (min-width: 650px) {
+    .col-3{
+        margin-top: 1%;
+        width: 50%;
+    }
+    .card{
+        width: 17.5rem;
+    }
+    .label{
+        font-size: 1.5em;
+    }
+}
+
+@media (min-width: 750px) {
+    .col-3{
+        margin-top: 1%;
+        width: 33.3%;
+    }
+    .card{
+        width: 13rem;
+    }
+    .label{
+        font-size: 1.5em;
+    }
+}
+
+
+@media (min-width: 820px) {
+    .col-3{
+        margin-top: 1%;
+        width: 33.3%;
+    }
+    .card{
+        width: 13rem;
+    }
+    .label{
+        font-size: 1.5em;
+    }
+}
+
+@media (min-width: 1280px) {
+    .col-3 {
+        width: 30%;
+        margin-top: 1%;
+    }
+
+    .card{
+        width: 17.5rem;
+    }
+
+    .label {
+        font-size: 1.5em;
+    }
+}
